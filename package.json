@@ -27,6 +27,9 @@
   "scripts": {
     "dev": "webpack-dev-server --content-base src --inline --hot"
   },
+    "engines": {
+    "node": "5.5.0"
+  },
   "author": "",
   "license": "ISC"
 }
